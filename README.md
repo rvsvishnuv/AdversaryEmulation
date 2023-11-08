@@ -4,6 +4,6 @@ This GitHub repository is dedicated to evaluating the effectiveness of various E
 
 # Key Platforms and Technologies:
 
-Microsoft Defender For Endpoint: A popular EDR solution from Microsoft.
-BlueSpawn EDR: An emerging EDR tool known for its advanced threat detection capabilities.
-Wazuh EDR: An open-source EDR platform designed for security monitoring and incident response.
+* Microsoft Defender For Endpoint: A popular EDR solution from Microsoft.
+* BlueSpawn EDR: An emerging EDR tool known for its advanced threat detection capabilities.
+* Wazuh EDR: An open-source EDR platform designed for security monitoring and incident response.
